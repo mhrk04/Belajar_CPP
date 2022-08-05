@@ -6,3 +6,5 @@ Example code for C++ language
 2. Variable
 3. Deklarasi dan Cin(see-in)
 4. Tipe Data Fundamental
+5. Aritmatik
+6. Komparasi
