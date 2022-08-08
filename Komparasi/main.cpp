@@ -26,8 +26,8 @@ int main(){
 	// lebih dari sama dengan
 	hasil2 = (a >= b); 
 		
-	cout <<  hasil1 << endl;
-	cout <<  hasil2 << endl;
+	cout << boolalpha<< hasil1 << endl;
+	cout << boolalpha<< hasil2 << endl;
 
   cin.get();
   return 0;
